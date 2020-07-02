@@ -1,0 +1,181 @@
+# <!=Copyright (C) 2019 Fancy Lab Core Plugin
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Fancy Lab Core Plugin v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2020-07-02 11:18-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Marcelo Vieira <marceloquinze@gmail.com>\n"
+"Language-Team: Our Team <translations@ourteam.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fancy-lab-core.php:26
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: fancy-lab-core.php:27
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: fancy-lab-core.php:28 fancy-lab-core.php:56
+#: tpl/testimonials/archive-flp_testimonials.php:17
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: fancy-lab-core.php:29 fancy-lab-core.php:85
+msgid "Post Type"
+msgstr "Tipo de post"
+
+#: fancy-lab-core.php:30 fancy-lab-core.php:86
+msgid "Item Archives"
+msgstr "Arquivos de Itens"
+
+#: fancy-lab-core.php:31 fancy-lab-core.php:87
+msgid "Item Attributes"
+msgstr "Atributos do item"
+
+#: fancy-lab-core.php:32 fancy-lab-core.php:88
+msgid "Parent Item:"
+msgstr "Item Pai:"
+
+#: fancy-lab-core.php:33 fancy-lab-core.php:89
+msgid "All Items"
+msgstr "Todos os itens"
+
+#: fancy-lab-core.php:34 fancy-lab-core.php:90
+msgid "Add New Item"
+msgstr "Adicionar novo item"
+
+#: fancy-lab-core.php:35 fancy-lab-core.php:91
+msgid "Add New"
+msgstr "Adicionar Novo"
+
+#: fancy-lab-core.php:36 fancy-lab-core.php:92
+msgid "New Item"
+msgstr "Novo item"
+
+#: fancy-lab-core.php:37 fancy-lab-core.php:93
+msgid "Edit Item"
+msgstr "Editar item"
+
+#: fancy-lab-core.php:38 fancy-lab-core.php:94
+msgid "Update Item"
+msgstr "Atualizar item"
+
+#: fancy-lab-core.php:39 fancy-lab-core.php:95
+msgid "View Item"
+msgstr "Visualizar item"
+
+#: fancy-lab-core.php:40 fancy-lab-core.php:96
+msgid "View Items"
+msgstr "Visualizar itens"
+
+#: fancy-lab-core.php:41 fancy-lab-core.php:97
+msgid "Search Item"
+msgstr "Procurar item"
+
+#: fancy-lab-core.php:42 fancy-lab-core.php:98
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: fancy-lab-core.php:43 fancy-lab-core.php:99
+msgid "Not found in Trash"
+msgstr "Não encontrado na lixeira"
+
+#: fancy-lab-core.php:44 fancy-lab-core.php:100
+msgid "Featured Image"
+msgstr "Imagem destacada"
+
+#: fancy-lab-core.php:45 fancy-lab-core.php:101
+msgid "Set featured image"
+msgstr "Configurar imagem destacada"
+
+#: fancy-lab-core.php:46 fancy-lab-core.php:102
+msgid "Remove featured image"
+msgstr "Remover imagem destacada"
+
+#: fancy-lab-core.php:47 fancy-lab-core.php:103
+msgid "Use as featured image"
+msgstr "Usar como imagem destacada"
+
+#: fancy-lab-core.php:48 fancy-lab-core.php:104
+msgid "Insert into item"
+msgstr "Inserir dentro do item"
+
+#: fancy-lab-core.php:49 fancy-lab-core.php:105
+msgid "Uploaded to this item"
+msgstr "Enviado para este item"
+
+#: fancy-lab-core.php:50 fancy-lab-core.php:106
+msgid "Items list"
+msgstr "Lista de itens"
+
+#: fancy-lab-core.php:51 fancy-lab-core.php:107
+msgid "Items list navigation"
+msgstr "Navigação da lista de items"
+
+#: fancy-lab-core.php:52 fancy-lab-core.php:108
+msgid "Filter items list"
+msgstr "Filtrar lista de itens"
+
+#: fancy-lab-core.php:55
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: fancy-lab-core.php:82
+msgctxt "Post Type General Name"
+msgid "Partners"
+msgstr "Parceiros"
+
+#: fancy-lab-core.php:83
+msgctxt "Post Type Singular Name"
+msgid "Partner"
+msgstr "Parceiro"
+
+#: fancy-lab-core.php:84 fancy-lab-core.php:112
+msgid "Partners"
+msgstr "Parceiros"
+
+#: fancy-lab-core.php:111
+msgid "Partner"
+msgstr "Parceiro"
+
+#: fancy-lab-core.php:140
+msgid "Testimonials Additional Fields"
+msgstr "Campos Adicionais dos Depoimentos"
+
+#: fancy-lab-core.php:152
+msgid "Position"
+msgstr "Título/Posição/Cargo"
+
+#: tpl/testimonials/archive-flp_testimonials.php:40
+msgid "Edit testimonial"
+msgstr "Editar depoimento"
+
+#: tpl/testimonials/archive-flp_testimonials.php:56
+msgid "Previous"
+msgstr "Anterior"
+
+#: tpl/testimonials/archive-flp_testimonials.php:57
+msgid "Next"
+msgstr "Próximo"
+
+#: tpl/testimonials/archive-flp_testimonials.php:63
+msgid "Nothing to display"
+msgstr "Não há nada para exibir"
