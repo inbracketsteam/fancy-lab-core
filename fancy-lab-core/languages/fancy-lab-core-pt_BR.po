@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Fancy Lab Core Plugin v1.0.0\n"
 "Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
-"POT-Creation-Date: 2020-07-02 11:18-0300\n"
+"POT-Creation-Date: 2020-07-09 16:04-0300\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Marcelo Vieira <marceloquinze@gmail.com>\n"
 "Language-Team: Our Team <translations@ourteam.com>\n"
@@ -23,146 +23,176 @@ msgstr ""
 "X-Generator: Poedit 2.0.6\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: fancy-lab-core.php:26
+#: fancy-lab-core.php:35
 msgctxt "Post Type General Name"
 msgid "Testimonials"
 msgstr "Depoimentos"
 
-#: fancy-lab-core.php:27
+#: fancy-lab-core.php:36
 msgctxt "Post Type Singular Name"
 msgid "Testimonial"
 msgstr "Depoimento"
 
-#: fancy-lab-core.php:28 fancy-lab-core.php:56
+#: fancy-lab-core.php:37 fancy-lab-core.php:65
 #: tpl/testimonials/archive-flp_testimonials.php:17
 msgid "Testimonials"
 msgstr "Depoimentos"
 
-#: fancy-lab-core.php:29 fancy-lab-core.php:85
+#: fancy-lab-core.php:38 fancy-lab-core.php:99 fancy-lab-core.php:161
 msgid "Post Type"
 msgstr "Tipo de post"
 
-#: fancy-lab-core.php:30 fancy-lab-core.php:86
+#: fancy-lab-core.php:39 fancy-lab-core.php:100 fancy-lab-core.php:162
 msgid "Item Archives"
 msgstr "Arquivos de Itens"
 
-#: fancy-lab-core.php:31 fancy-lab-core.php:87
+#: fancy-lab-core.php:40 fancy-lab-core.php:101 fancy-lab-core.php:163
 msgid "Item Attributes"
 msgstr "Atributos do item"
 
-#: fancy-lab-core.php:32 fancy-lab-core.php:88
+#: fancy-lab-core.php:41 fancy-lab-core.php:102 fancy-lab-core.php:164
 msgid "Parent Item:"
 msgstr "Item Pai:"
 
-#: fancy-lab-core.php:33 fancy-lab-core.php:89
+#: fancy-lab-core.php:42 fancy-lab-core.php:103 fancy-lab-core.php:165
 msgid "All Items"
 msgstr "Todos os itens"
 
-#: fancy-lab-core.php:34 fancy-lab-core.php:90
+#: fancy-lab-core.php:43 fancy-lab-core.php:104 fancy-lab-core.php:166
 msgid "Add New Item"
 msgstr "Adicionar novo item"
 
-#: fancy-lab-core.php:35 fancy-lab-core.php:91
+#: fancy-lab-core.php:44 fancy-lab-core.php:105 fancy-lab-core.php:167
 msgid "Add New"
 msgstr "Adicionar Novo"
 
-#: fancy-lab-core.php:36 fancy-lab-core.php:92
+#: fancy-lab-core.php:45 fancy-lab-core.php:106 fancy-lab-core.php:168
 msgid "New Item"
 msgstr "Novo item"
 
-#: fancy-lab-core.php:37 fancy-lab-core.php:93
+#: fancy-lab-core.php:46 fancy-lab-core.php:107 fancy-lab-core.php:169
 msgid "Edit Item"
 msgstr "Editar item"
 
-#: fancy-lab-core.php:38 fancy-lab-core.php:94
+#: fancy-lab-core.php:47 fancy-lab-core.php:108 fancy-lab-core.php:170
 msgid "Update Item"
 msgstr "Atualizar item"
 
-#: fancy-lab-core.php:39 fancy-lab-core.php:95
+#: fancy-lab-core.php:48 fancy-lab-core.php:109 fancy-lab-core.php:171
 msgid "View Item"
 msgstr "Visualizar item"
 
-#: fancy-lab-core.php:40 fancy-lab-core.php:96
+#: fancy-lab-core.php:49 fancy-lab-core.php:110 fancy-lab-core.php:172
 msgid "View Items"
 msgstr "Visualizar itens"
 
-#: fancy-lab-core.php:41 fancy-lab-core.php:97
+#: fancy-lab-core.php:50 fancy-lab-core.php:111 fancy-lab-core.php:173
 msgid "Search Item"
 msgstr "Procurar item"
 
-#: fancy-lab-core.php:42 fancy-lab-core.php:98
+#: fancy-lab-core.php:51 fancy-lab-core.php:112 fancy-lab-core.php:174
 msgid "Not found"
 msgstr "Não encontrado"
 
-#: fancy-lab-core.php:43 fancy-lab-core.php:99
+#: fancy-lab-core.php:52 fancy-lab-core.php:113 fancy-lab-core.php:175
 msgid "Not found in Trash"
 msgstr "Não encontrado na lixeira"
 
-#: fancy-lab-core.php:44 fancy-lab-core.php:100
+#: fancy-lab-core.php:53 fancy-lab-core.php:114 fancy-lab-core.php:176
 msgid "Featured Image"
 msgstr "Imagem destacada"
 
-#: fancy-lab-core.php:45 fancy-lab-core.php:101
+#: fancy-lab-core.php:54 fancy-lab-core.php:115 fancy-lab-core.php:177
 msgid "Set featured image"
 msgstr "Configurar imagem destacada"
 
-#: fancy-lab-core.php:46 fancy-lab-core.php:102
+#: fancy-lab-core.php:55 fancy-lab-core.php:116 fancy-lab-core.php:178
 msgid "Remove featured image"
 msgstr "Remover imagem destacada"
 
-#: fancy-lab-core.php:47 fancy-lab-core.php:103
+#: fancy-lab-core.php:56 fancy-lab-core.php:117 fancy-lab-core.php:179
 msgid "Use as featured image"
 msgstr "Usar como imagem destacada"
 
-#: fancy-lab-core.php:48 fancy-lab-core.php:104
+#: fancy-lab-core.php:57 fancy-lab-core.php:118 fancy-lab-core.php:180
 msgid "Insert into item"
 msgstr "Inserir dentro do item"
 
-#: fancy-lab-core.php:49 fancy-lab-core.php:105
+#: fancy-lab-core.php:58 fancy-lab-core.php:119 fancy-lab-core.php:181
 msgid "Uploaded to this item"
 msgstr "Enviado para este item"
 
-#: fancy-lab-core.php:50 fancy-lab-core.php:106
+#: fancy-lab-core.php:59 fancy-lab-core.php:120 fancy-lab-core.php:182
 msgid "Items list"
 msgstr "Lista de itens"
 
-#: fancy-lab-core.php:51 fancy-lab-core.php:107
+#: fancy-lab-core.php:60 fancy-lab-core.php:121 fancy-lab-core.php:183
 msgid "Items list navigation"
 msgstr "Navigação da lista de items"
 
-#: fancy-lab-core.php:52 fancy-lab-core.php:108
+#: fancy-lab-core.php:61 fancy-lab-core.php:122 fancy-lab-core.php:184
 msgid "Filter items list"
 msgstr "Filtrar lista de itens"
 
-#: fancy-lab-core.php:55
+#: fancy-lab-core.php:64
 msgid "Testimonial"
 msgstr "Depoimento"
 
-#: fancy-lab-core.php:82
+#: fancy-lab-core.php:96
 msgctxt "Post Type General Name"
 msgid "Partners"
 msgstr "Parceiros"
 
-#: fancy-lab-core.php:83
+#: fancy-lab-core.php:97
 msgctxt "Post Type Singular Name"
 msgid "Partner"
 msgstr "Parceiro"
 
-#: fancy-lab-core.php:84 fancy-lab-core.php:112
+#: fancy-lab-core.php:98 fancy-lab-core.php:126
 msgid "Partners"
 msgstr "Parceiros"
 
-#: fancy-lab-core.php:111
+#: fancy-lab-core.php:125
 msgid "Partner"
 msgstr "Parceiro"
 
-#: fancy-lab-core.php:140
+#: fancy-lab-core.php:158
+msgctxt "Post Type General Name"
+msgid "Sliders"
+msgstr "Sliders"
+
+#: fancy-lab-core.php:159
+msgctxt "Post Type Singular Name"
+msgid "Slider"
+msgstr "Slider"
+
+#: fancy-lab-core.php:160 fancy-lab-core.php:188
+msgid "Sliders"
+msgstr "Sliders"
+
+#: fancy-lab-core.php:187
+msgid "Slider"
+msgstr "Slider"
+
+#: fancy-lab-core.php:223
 msgid "Testimonials Additional Fields"
 msgstr "Campos Adicionais dos Depoimentos"
 
-#: fancy-lab-core.php:152
+#: fancy-lab-core.php:234
 msgid "Position"
 msgstr "Título/Posição/Cargo"
+
+#: fancy-lab-core.php:258
+msgid "Slider Additional Fields"
+msgstr "Campos Adicionais dos Sliders"
+
+#: fancy-lab-core.php:270
+msgid "Button Text"
+msgstr "Texto do Botão"
+
+#: fancy-lab-core.php:274
+msgid "Button URL"
+msgstr "URL do Botão"
 
 #: tpl/testimonials/archive-flp_testimonials.php:40
 msgid "Edit testimonial"
